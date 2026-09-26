@@ -1,0 +1,12 @@
+﻿# CHAPTER GENERATION ROUTING NOTICE
+
+The former 30-chapter generation queue has been superseded by the active 001–043 eight-arc queue.
+
+Active source:
+`03_WRITING_ENGINE/GENERATION/CHAPTER_GENERATION_QUEUE.md`
+
+Structural source:
+`03_WRITING_ENGINE/GENERATION/ARC_RESTRUCTURE_PLAN_001_043.md`
+
+Legacy prose backup:
+`03_WRITING_ENGINE/GENERATION/LEGACY_PRE_RESTRUCTURE_CH001_043/`
