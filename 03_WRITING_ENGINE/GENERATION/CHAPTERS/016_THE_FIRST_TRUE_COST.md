@@ -1,224 +1,244 @@
-# THE FIRST TRUE COST
+﻿# THE CORRECTION LOOP
 
-The thimble came back on a Monday.
+The mark had not changed.
 
-It had come back the Friday before as well, and once before that. By the third return, Arthur had stopped treating it as a misplaced object.
+That was the first thing Arthur checked.
 
-Three returns were not a Rule.
+He stood beneath the infirmary lamp with his right hand open while the Medical cadet turned it from side to side. The mark ran from the base of his thumb toward his wrist, dark enough to be seen, clean enough to be mistaken for an old injury.
 
-They were a reason to test.
+The cadet pressed beside it.
 
-He logged each one.
+"Does this hurt?"
 
-The object was brass, worn smooth on one side, small enough to disappear in a closed hand. It returned to the same tray each time.
+"No."
 
-He moved it to another shelf.
+"Heat?"
 
-The next morning it was back.
+"No."
 
-He gave it to another clerk.
+"Numbness?"
 
-The next morning it was back in Arthur's tray.
+Arthur flexed his fingers.
 
-He repeated the transfer with the clerk watching.
+"No."
 
-Again, the thimble returned to the original tray.
+The cadet looked at the mark again.
 
-That was enough for a provisional Rule: the thimble returned to its first recorded intake location despite later custody transfers.
+"Then I am going to call it an injury."
 
-The Rule was narrow.
+Arthur looked up.
 
-But it had survived repeated testing.
+"You do not know that it is."
 
-Arthur opened the private interface.
+"I know that I have a form for it."
 
-For the first time since the weapon training began, the System showed something other than silence.
+The answer was so ordinary that Arthur almost smiled.
 
-________________________________
+The cadet filled the line.
+
+CONTACT INJURY — CAUSE UNCONFIRMED.
+
+"Come back if it changes."
+
+Arthur nodded.
+
+He did not correct the record.
+
+The Academy had given him exactly what he needed: a harmless explanation that was incomplete enough to be true on paper and ordinary enough that nobody would look twice.
+
+He left the infirmary with the mark covered by his sleeve.
+
+He did not feel relieved.
+
+He felt embarrassed.
+
+The Contract had not lied to him.
+
+He had asked a question before he had earned the right to understand the answer.
+
+That distinction had cost him.
+
+---
+
+Hayes was waiting in his office that afternoon.
+
+The instructor did not offer Arthur a seat.
+
+"Your request for the advanced field-protocol module was denied."
+
+Arthur looked at the paper.
+
+"Why?"
+
+"Because it is restricted to deployable cadets."
+
+"I am assigned to Field Support."
+
+"Your current duties are support duties."
+
+"Field Support is a field-facing track."
+
+Hayes's expression did not change.
+
+"Not every support function makes you deployable."
+
+Arthur looked at the standing order.
+
+The words were correct.
+
+That was what made them difficult.
+
+"Then what would make me eligible?"
+
+"An assignment that requires it."
+
+"How do I receive an assignment that requires it if I am not trained for it?"
+
+Hayes finally looked up.
+
+"That is not my problem."
+
+Arthur folded the paper.
+
+"Understood."
+
+He left before the conversation could become an argument.
+
+The contempt was different from the one he had received before.
+
+There was no mockery in it.
+
+Hayes had simply placed him outside the column.
+
+Arthur disliked that more.
+
+---
+
+That evening, he cleared the bench in the training annex.
+
+He placed three sheets in front of him.
+
+On the first, he wrote:
+
+OBSERVED.
+
+On the second:
+
+ASSUMED.
+
+The third was going to say CONFIRMED.
+
+He crossed it out.
+
+"Not yet."
+
+He began again.
+
+The second phenomenon had been present.
+
+He had seen its response.
+
+He had seen enough to believe there was a Rule.
+
+He had not seen enough to identify the Rule.
+
+That was the first correction.
+
+Under it, he wrote what he had assumed.
+
+The phenomenon followed the hand.
+
+He had treated that assumption as if it were the same thing as the observation.
+
+It was not.
+
+Arthur looked at the dark mark on his hand.
+
+The Contract had given him certainty.
+
+Certainty had not given him truth.
+
+That was the part he had missed.
+
+He opened the private interface.
+
 CONTRACT SYSTEM
 
-CONDITION DETECTED
-
-Potential Contract:
 THE POLITE KNOCK
-
-Status: OFFER PENDING
-
-Requirement:
-Genuine resolution of a
-qualifying phenomenon.
-________________________________
-
-Arthur did not accept it immediately.
-
-He checked his notes again.
-
-Observation.
-
-Hypothesis.
-
-Test.
-
-Result.
-
-The Rule was supported by repeated returns.
-
-Only then did he select the offer.
-
-________________________________
-CONTRACT OFFER AVAILABLE
-
-THE POLITE KNOCK
-
-Integration: PENDING
-
-WARNING
-Benefits, restrictions,
-and consequences may not
-be fully known.
-
-Unknown consequences may
-exist.
-
-[ ACCEPT ]   [ DECdining hallaging app ]
-
-________________________________
-
-He did not choose because the box told him to.
-
-He chose because he had earned the offer through a result he had tested himself.
-
-He accepted.
-
-________________________________
-CONTRACT ACCEPTED
-
-THE POLITE KNOCK
-
 Integration: PARTIAL
 
 Known:
-Contract formation confirmed
+One confirmed condition
 
 Unknown:
-Binding condition
-Invocation terms
-Complete consequences
+Complete phenomenon model
 
-________________________________
+Arthur closed it.
 
-The interface disappeared.
+No warning.
 
-The room did not change.
+No explanation.
 
-Arthur waited.
+Good.
 
-Nothing happened.
+He did not need another answer.
 
-So he did what he had learned to do with every unexplained mechanism.
+He needed a better question.
 
-He tested it.
+He returned to the records.
 
-He placed his hand on the thimble and formed the question beneath the question. He did not ask aloud. He did not assume the interface would translate his intention.
+The object's first intake location had been recorded.
 
-Then he opened the Contract UI again.
+Later custody had changed.
 
-________________________________
-THE POLITE KNOCK
+The return had not.
 
-Invocation available.
+He wrote the three facts separately.
 
-Condition:
-Presence confirmed.
+FIRST INTAKE.
 
-Uses remaining for this
-phenomenon: 1
+LATER CUSTODY.
 
-________________________________
+RETURN POSITION.
 
-Arthur looked at the final line.
+Then he drew a line between the first and third.
 
-One use.
+Not a conclusion.
 
-That was not a number to spend casually.
+A testable relationship.
 
-He invoked the Contract.
+If the object returned to the first recorded location after a properly witnessed transfer, then the hand was not the controlling variable.
 
-The answer came with immediate certainty.
+If it did not, his hypothesis failed.
 
-________________________________
-CONTRACT INVOKED
+Arthur signed the bottom of the page.
 
-THE POLITE KNOCK
+Tomorrow, he would ask the Academy for witnesses.
 
-Confirmed sentence:
-It is bound to the hand,
-and not to the name.
+Not because he trusted the Academy.
 
-________________________________
+Because he needed evidence that could survive people who did not trust him.
 
-Arthur did not move.
+He looked once more at the mark.
 
-The sentence felt complete.
+The pain was gone.
 
-That feeling was familiar.
+The lesson was not.
 
-He had learned to distrust it.
+He put the page in the folder.
 
-He wrote the sentence down before writing what it meant.
+For the first time since accepting the Contract, Arthur understood what its greatest danger was.
 
-*Confirmed statement: the Contract distinguishes a hand from a name.*
+It did not make him careless.
 
-*Interpretation: the thimble follows the person who first takes possession of it.*
+It made him certain.
 
-He stopped.
+And certainty was much harder to notice when it was wrong.
 
-That second sentence was an inference.
+"Tomorrow," he said quietly, "I test the assumption."
 
-He underlined it.
+He turned off the lamp.
 
-The cost arrived.
+The corrected method stayed on the bench.
 
-His reserve dropped in a way he could feel but could not measure. Something deeper went with it, a quiet subtraction that left him colder than before.
-
-Then he saw the mark.
-
-A thin dark line crossed the heel of his right palm, from the base of the thumb toward the wrist.
-
-He washed it.
-
-It remained.
-
-He held his hand under the light.
-
-No wound.
-
-No blood.
-
-Just a mark.
-
-He pulled his sleeve over it.
-
-The Contract had not made him stronger.
-
-It had given him one confirmed sentence and charged him for it.
-
-Arthur looked at the thimble.
-
-He had an answer.
-
-He did not yet have the truth.
-
-Those were different things.
-
-He wrote one final line before leaving:
-
-*The sentence is data. The meaning is mine to test.*
-
-The dagger was still waiting in the weapons room.
-
-Tomorrow, he would train again.
-
-Tonight, he had learned the first true cost of knowing something he could not have learned alone.
-
-
+It was the first thing he had earned from his failure.
