@@ -146,7 +146,7 @@ The train reached the Academy. He put the artifact away and walked up the hill i
 
 ---
 
-*End of Chapter 035.*
+*End of Chapter 036.*
 
 
 

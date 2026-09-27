@@ -1,4 +1,4 @@
-﻿# RIVAL CONTEMPT
+# RIVAL CONTEMPT
 
 **Scene one â€” the mission assignment.**
 
@@ -170,5 +170,5 @@ Arthur thought about the mission, the null set, and the way Mercer had tested th
 
 ---
 
-*End of Chapter 037.*
+*End of Chapter 038.*
 

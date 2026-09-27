@@ -1,4 +1,4 @@
-﻿# INSTITUTE INTEREST
+# INSTITUTE INTEREST
 
 **Scene one â€” the report.**
 
@@ -144,5 +144,5 @@ He slept, and in his sleep he did the thing he did when he was tired: he cross-i
 
 ---
 
-*End of Chapter 038.*
+*End of Chapter 039.*
 

@@ -1,4 +1,4 @@
-﻿# dining hallaging app OF SUCCESSION
+# THE MISSING BEARER
 
 **Scene one â€” the genealogy room.**
 
@@ -136,7 +136,72 @@ That was the missing bearer. Not a person in the gap. A person above it.
 
 He went to bed with the chart on his desk and the receipt under his pillow, which was not where a clerk kept a document, but was where a person kept the thing he was not willing to lose.
 
+**Scene five — the charter.**
+
+Arthur did not wait for morning.
+
+The founding charter was kept in the public records office because the Institute was old enough to have become an institution and young enough to still have paperwork proving that it had once been a decision. The clerk on night duty looked annoyed when Arthur arrived, but the request was ordinary. Founding documents were public. He gave his name, signed the request slip, and waited.
+
+The charter was dated 1958.
+
+Arthur stared at the year. It sat inside the fifty-year gap.
+
+The Institute had been founded while the Reed line had apparently vanished.
+
+He read the names of the founders. Six signatures were clean. The seventh had been written twice: once in a rightward hand, then corrected in a leftward hand beneath it.
+
+Reed.
+
+Not as a founder's surname. As a witness.
+
+Arthur turned the page. The witness had certified that the founders had received something from an existing custodian before the Institute opened its doors. The object was not named. The certificate used only one phrase:
+
+**Custodial property.**
+
+Arthur read the line again.
+
+The Institute had not founded the chain. It had inherited access to it.
+
+He copied the certificate number, closed the charter, and returned it to the clerk.
+
+On the walk back, he stopped beneath the Academy clock and took out his notebook.
+
+**1958 — Institute founded. Reed witness present. Custodial property transferred before opening.**
+
+Then, beneath it:
+
+**The missing bearer did not disappear. The office changed hands before the Institute existed.**
+
+That changed the question.
+
+He had been asking who the missing bearer was.
+
+Now he had to ask who had the authority to transfer the office.
+
+His private interface remained unchanged. No new Contract appeared. The artifact gave no warning and no answer.
+
+That was almost reassuring.
+
+Almost.
+
+Because for the first time, Arthur understood why the Institute had stopped trying to buy the stone.
+
+They had finally realized the stone was not the thing they needed.
+
+They needed the person who could decide where it went next.
+
+He closed the notebook.
+
+Behind him, the Academy clock struck midnight.
+
+Somewhere in the records building, a file had been opened.
+
+Arthur did not know who had opened it.
+
+He only knew that the request slip he had signed had contained his full name.
+
+And someone had taken a copy.
+
 ---
 
-*End of Chapter 039.*
-
+*End of Chapter 040.*
