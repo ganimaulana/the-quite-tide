@@ -1,4 +1,4 @@
-﻿# CONTRACT TWO SURFACES
+# CONTRACT TWO SURFACES
 
 **Scene one â€” the new term.**
 
@@ -162,3 +162,40 @@ That was how the chain worked. He had learned it from the dormant docket, and th
 
 
 
+**Scene five — the second observation.**
+
+Arthur returned to the warehouse alone after the team had gone.
+
+He did not take the artifact out.
+
+He stood at the front door and watched dust settle in the grooves of the floor.
+
+The Seep had reacted to the artifact once. That did not mean the artifact controlled it. It did not even mean the two phenomena belonged to the same system.
+
+Arthur wrote those sentences down because the temptation to connect them was stronger than the evidence.
+
+Then he placed a glove on the floor and walked away.
+
+Nothing happened.
+
+He returned ten minutes later. The glove remained where he had left it.
+
+He moved it to the patch where the team had stood. It remained still.
+
+Then he moved it to the front door.
+
+After eleven minutes, it slid three inches toward the threshold.
+
+Arthur smiled despite himself.
+
+The Seep was consistent.
+
+That was more valuable than being spectacular.
+
+He wrote the result into the field log and added one final line: *Do not test the artifact again until the ordinary rule is established.*
+
+He left the warehouse with the question still open.
+
+For once, that felt like progress.
+
+*End of Chapter 034.*

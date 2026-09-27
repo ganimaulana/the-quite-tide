@@ -152,6 +152,50 @@ He wrote that down too, on the last page of the notebook, and then he put the no
 
 *End of Chapter 032.*
 
+---
+
+**Scene five — the cost of a useful answer.**
+
+Arthur left the café by the river and did not go directly back to the Academy.
+
+He walked three streets north, stopped at a public records office, and requested the oldest available ferry district map.
+
+The clerk behind the counter looked at the request. “Research?”
+
+“Yes.”
+
+“Academic?”
+
+Arthur considered the question. “Not yet.”
+
+The clerk stamped the form anyway.
+
+The map showed the district before the current warehouse existed. The pier had moved twice. The storage buildings had been rebuilt. One narrow service road had disappeared entirely.
+
+Arthur copied the changes rather than the map itself.
+
+That was the useful part.
+
+When he reached the Academy, he placed Kajiwara’s statements beside his own notes.
+
+She had given him information. She had also told him what the Institute believed.
+
+Those were not the same thing.
+
+If Kajiwara was right, the Institute had been watching the ferry records for years. If she was wrong, she had still revealed what she wanted him to believe.
+
+Arthur wrote one sentence beneath the two possibilities:
+
+*A useful answer is still evidence about the person giving it.*
+
+He closed the notebook.
+
+The next time he met Kajiwara, he would bring a question she could not have prepared for.
+
+That would tell him more than another answer.
+
+*End of Chapter 033.*
+
 
 
 

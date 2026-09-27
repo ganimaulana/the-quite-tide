@@ -112,3 +112,45 @@ He copied the document and placed the original back.
 
 *End of Chapter 031.*
 
+---
+
+**Scene five — the parallel record.**
+
+Arthur returned to his room after midnight. The Academy residence had the silence of a building that was supposed to be empty. Pipes clicked behind the walls. Somewhere below, a door opened and closed. Nobody called his name.
+
+He put the copied Reed margin on the desk, then placed the original family appraisal beside it.
+
+The two documents had almost nothing in common. Different decades. Different paper. Different clerks. Different purposes.
+
+That was why he trusted the comparison.
+
+He drew three columns in his notebook.
+
+**Known.** Reed appeared in a 1934 ferry record. The artifact had a documented connection to the ferry district. The old appraisal described the stone as useless. A previous keeper or position had existed before Arthur.
+
+**Possible.** The Reed in the margin might be related to him. The artifact might have moved through the family. The appraisal might have been written after someone understood more than the document admitted.
+
+**Unknown.** Who the Reed was. Who carried the artifact in 1934. Why the file had been sealed. Why the Institute wanted it now.
+
+He stopped there.
+
+The list did not reveal a hidden inheritance or give him a convenient answer. It showed him where he could not safely guess.
+
+Arthur locked the notebook beside the copied photograph. Then he placed the Institute letter on top.
+
+He had expected the holiday to give him distance.
+
+Instead, it had given him a second file.
+
+The first belonged to the Academy.
+
+The second belonged to him.
+
+Tomorrow he would meet Dr. Kajiwara. He would listen first.
+
+That was not trust.
+
+It was procedure.
+
+*End of Chapter 032.*
+

@@ -1,4 +1,4 @@
-﻿# END-I: SLOT 2 AND THE HOOK
+# END-I: SLOT 2 AND THE HOOK
 
 **Scene one â€” the gauge audit.**
 
@@ -155,7 +155,49 @@ Arthur went to sleep. Arc I was over. In the morning, the second term would begi
 
 ---
 
-*End of Arc I Â· Chapter 030.*
+**Scene five — the question he could not file.**
+
+Arthur returned to the records block before the holiday closed it. He found Margaret at the counter, sorting requests into three piles: routine, delayed, and dangerous.
+
+She looked at the paper in his hand. “Which pile?”
+
+“I do not know yet.”
+
+“Then it is the third.”
+
+Arthur put the family appraisal beside the ferry docket. “The name Reed appears in the old records.”
+
+Margaret did not reach for the paper. “And?”
+
+“I do not know whether it means anything.”
+
+“Good.”
+
+“Good?”
+
+“A clerk who does not know is safer than a clerk who decides too early,” Margaret said. “If you find a Reed, write *Reed*. Do not write *my ancestor* because you want the file to become interesting.”
+
+The correction was irritating because it was right.
+
+Arthur crossed out *possible* in his note and replaced it with *unverified*. Then he added the source beside it: 1934 margin note. No corroboration.
+
+Margaret finally glanced at the page. “That is better.”
+
+“You did not even read it.”
+
+“I read the part that matters.” She tapped the correction. “You are learning.”
+
+Arthur put the paper away. He had spent months trying to make records tell him what they meant. Now he was beginning to understand that records did not owe him a conclusion.
+
+They only owed him what had happened.
+
+That was less satisfying.
+
+It was also more useful.
+
+He closed the drawer and checked the lock twice. The holiday could begin—not because the questions were finished, but because for the first time he had a method for carrying them without turning them into answers.
+
+*End of Chapter 031.*
 
 
 

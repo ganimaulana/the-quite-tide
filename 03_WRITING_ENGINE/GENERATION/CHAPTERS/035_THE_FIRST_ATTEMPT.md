@@ -1,4 +1,4 @@
-﻿# FIRST ATTEMPT
+# FIRST ATTEMPT
 
 **Scene one â€” the plan.**
 
@@ -183,4 +183,44 @@ The chain was not a chain of events. It was a chain of people, and the people ha
 ---
 
 *End of Chapter 034.*
+
+---
+
+**Scene five — what the failure changed.**
+
+Back at the Academy, Arthur compared the first attempt with the field log from the previous mission.
+
+The failure had not produced a solution.
+
+It had produced a boundary.
+
+Six present witnesses could temporarily redirect the Seep. They could not erase the older memory. The old worker could strengthen one memory, but only if he remembered the correct witness. The artifact could trigger recognition, but recognition was not ownership and certainly not a Contract.
+
+Arthur drew a box around the last point.
+
+He had nearly made the mistake himself. When the dust moved toward the artifact, his mind had wanted to turn it into an answer.
+
+Instead, he wrote the smaller conclusion.
+
+*The artifact is part of the record.*
+
+Nothing more.
+
+Pram stood in the doorway.
+
+“You are writing the failure as if it worked.”
+
+Arthur looked up. “It worked enough to tell us what not to assume.”
+
+Pram nodded once. “That is not the same thing.”
+
+“No.” Arthur closed the file. “But it is what we have.”
+
+Outside, the bell marked the end of the working day.
+
+The next attempt would require better evidence, not a bigger guess.
+
+Arthur put the field log away.
+
+*End of Chapter 035.*
 
