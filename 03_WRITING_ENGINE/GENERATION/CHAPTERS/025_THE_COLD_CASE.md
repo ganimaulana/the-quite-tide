@@ -1,4 +1,4 @@
-﻿# THE COLD CASE
+# THE COLD CASE
 
 **Scene one â€” the sealed gaps.**
 
@@ -97,6 +97,98 @@ He read them in order, then in reverse. The reverse reading told him something t
 Someone at the Academy had read this file recently. Someone had added to it. And the addition described exactly what Arthur had done.
 
 He did not know if the note had been written for him, or if he had simply done what the note described. It was the first time in his life that a piece of paper had frightened him. He folded it carefully and put it in the folder marked **PREVIOUS HOLDER â€” OPEN**, which he made that night and which had, at the time, only one page in it.
+
+He did not sleep immediately.
+
+The four pages remained on the desk.
+
+Arthur changed their order again.
+
+Method.
+
+Seal.
+
+Field record.
+
+Marginal note.
+
+Nothing changed.
+
+He tried the opposite order.
+
+Marginal note.
+
+Field record.
+
+Seal.
+
+Method.
+
+The same facts appeared, but one relationship became harder to ignore.
+
+The old case did not say that the phenomenon had been defeated. It said the investigators had learned how to make it stop returning. That was a smaller claim, and therefore a more dangerous one. It left open the possibility that the Seep had never been removed at all.
+
+Arthur wrote that down.
+
+*Containment may describe behavior, not absence.*
+
+He stopped with the pen above the page.
+
+That sentence belonged in the official record only if he could prove it. For now it belonged in his private notebook.
+
+He added another line.
+
+*Do not confuse a quiet phenomenon with a finished phenomenon.*
+
+The room was silent.
+
+Then came a knock at the door.
+
+Arthur's hand stopped.
+
+It was an ordinary knock. Two taps. Then a pause. Someone outside shifted their weight.
+
+Motion Sense caught it before the handle moved.
+
+Arthur closed the folder.
+
+"Who is it?"
+
+"Clarke."
+
+Arthur opened the door.
+
+Clarke held out a small envelope.
+
+"This was in the records return tray. It has your name on it."
+
+Arthur took it.
+
+"Who filed it?"
+
+"No signature."
+
+Arthur looked at the envelope. The paper was older than the fold, and the fold was newer than the paper.
+
+He did not open it.
+
+"Tomorrow," Clarke said.
+
+Arthur nodded.
+
+Clarke walked away.
+
+Arthur closed the door and placed the envelope beside the previous-holder folder.
+
+He had spent the evening trying to understand a file from 1927.
+
+Now someone had added a new page to the problem without telling him who had written it.
+
+He left the envelope unopened.
+
+That was not fear.
+
+It was procedure.
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# THE REMATCH EXERCISE
+# THE REMATCH EXERCISE
 
 **Scene one â€” the misbrief.**
 
@@ -177,6 +177,94 @@ Pram walked back to the Combat side of the room. The instructor closed the folde
 Arthur did not answer. He was already writing the next report, because the next report was the one that would matter. In the margin he wrote the word **boundary**, then crossed it out, then wrote **bait**. Both words were true. The exercise had taught him that a plan could be honest and still cost someone else, and that the cost was the part the report always left out.
 
 He filed the report and went to the dining hall. Pram was not there. The Combat table was loud, and the Irregular table was quiet, and between them the room hummed with the ordinary sound of people deciding what to think.
+
+Before they reached the dining hall, Pram caught up with them.
+
+"Reed."
+
+Arthur stopped.
+
+Pram held out the folded briefing map.
+
+"You were right about the channels."
+
+"Yes."
+
+Pram gave him a look.
+
+"You could make that less irritating."
+
+"I could."
+
+"Do it next time."
+
+Arthur took the map. "Next time, don't make me find out in the field that your team has not read the corrections."
+
+One of the Combat students behind Pram laughed.
+
+Pram did not.
+
+"Fair," he said.
+
+He pointed at the map.
+
+"The east channel was not on our copy."
+
+"Then your copy was wrong."
+
+"Yes."
+
+Arthur looked at him. The answer had come too quickly to be defensive.
+
+"You are going to fix it?"
+
+"I already asked for the corrected map."
+
+"Good."
+
+Pram folded his arms.
+
+"There is something else."
+
+"What?"
+
+"You watched the channel instead of the team for most of the exercise. If someone had fallen, you would have noticed late."
+
+The corridor seemed quieter.
+
+Arthur looked down at the map in his hand.
+
+He did not like the criticism because it was accurate.
+
+"Then I need to watch both," he said.
+
+Pram nodded once.
+
+"That's the part I wanted you to hear."
+
+He walked away.
+
+Owen waited until he was out of earshot.
+
+"He just taught you something."
+
+"Yes."
+
+"Does that mean he is your friend now?"
+
+"No."
+
+Clarke adjusted his folder.
+
+"Good. Friends are harder to file."
+
+Arthur looked at the corrected map.
+
+The first version of the exercise had been about proving the file was right.
+
+The second had been about using that fact without letting the fact become more important than the people around it.
+
+That distinction stayed with him longer than the victory did.
 
 ---
 

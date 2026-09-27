@@ -1,4 +1,4 @@
-﻿# THE REVIEW THAT SEES
+# THE REVIEW THAT SEES
 
 **Scene one â€” the reconciled log.**
 
@@ -141,6 +141,78 @@ But later, walking back through the dark between the records block and the resid
 He stopped at the edge of the quadrangle. Somewhere across the campus, the instrument sat under its cover, humming. Somewhere above it, a desk he had never seen was logging a second flicker in his name. He could not see either of them. He could only file the fact that they existed.
 
 That was enough for tonight. He went to bed.
+
+The next morning, the review board changed the access note on Arthur's file.
+
+He noticed because the stamp was different.
+
+It did not grant him more access. It did something stranger.
+
+It listed his previous reports as **RELEVANT EXPERIENCE**.
+
+Arthur stood in front of the records counter with the form in his hand.
+
+"That's new," the clerk said.
+
+"Yes."
+
+"Does it mean you can read the sealed material?"
+
+"No."
+
+"Then what does it mean?"
+
+Arthur looked at the stamp again.
+
+"It means someone wants future reviewers to read what I have already done before deciding what I am allowed to do."
+
+The clerk frowned.
+
+"That sounds good."
+
+"It can be."
+
+"Can be?"
+
+"A record that helps you can also follow you."
+
+The clerk shrugged. "Everything follows someone in this building."
+
+Arthur returned the form.
+
+At lunch, Owen found him with the same expression he had worn during the review.
+
+"You look unhappy."
+
+"I am thinking."
+
+"That is usually how you look before something becomes a report."
+
+Arthur showed him the stamp.
+
+Owen read it.
+
+"Relevant experience. That's not a promotion."
+
+"No."
+
+"But it is not a dismissal either."
+
+"No."
+
+Owen closed the folder.
+
+"Then you are moving."
+
+Arthur considered the word.
+
+He had spent weeks trying to move upward in the Academy without caring about rank. Now the movement was happening somewhere he had not expected: not in classification, but in the number of people who considered his judgment worth recording.
+
+That was useful.
+
+It was also exposure.
+
+He put the file away.
 
 ---
 

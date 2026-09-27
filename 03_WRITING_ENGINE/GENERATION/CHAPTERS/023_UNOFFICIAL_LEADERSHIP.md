@@ -1,4 +1,4 @@
-﻿# UNOFFICIAL LEADERSHIP
+# UNOFFICIAL LEADERSHIP
 
 **Scene one â€” the new lead.**
 
@@ -142,7 +142,103 @@ That night he wrote a note in his own notebook, under the heading **UNOFFICIAL C
 
 He closed the notebook and went to bed. In the morning, the board would post the after-action review, and the review would say what it said. Arthur would read it, and file it, and wait for the next one.
 
+The next morning, the correction arrived in the records block.
+
+Hosoda had attached a short statement to the command assessment. It did not dispute Arthur's account. It disputed the implication.
+
+**The observer did not assume command. The team used the observer's analysis because the formal lead authorized it.**
+
+Arthur read it twice.
+
+Clarke looked over his shoulder.
+
+"He's protecting himself."
+
+"Yes."
+
+"He's also protecting you."
+
+Arthur looked again.
+
+The sentence had been carefully written. Hosoda had kept the authority where it belonged, but he had also made sure the record could not erase the fact that Arthur's observation had changed the decision.
+
+"Why would he do that?" Owen asked.
+
+Arthur folded the statement.
+
+"Because the next team needs to know who made the observation."
+
+"That's not the only reason."
+
+Owen shrugged.
+
+"People rarely write extra paperwork for only one reason."
+
+Arthur almost smiled.
+
+"You are becoming difficult."
+
+"I learned from you."
+
+The three of them returned to their work.
+
+For the rest of the morning, Arthur noticed something different in the records block. Students stopped asking whether he was the person from the waterfront. They started asking where the report was filed.
+
+It was a small change.
+
+But it was the kind of change that could become dangerous.
+
+If people came to him for answers, he could become useful.
+
+If they came to him because they believed he had answers, he could become responsible for questions he had never agreed to carry.
+
+Arthur added that distinction to his notebook.
+
+*Being useful is not the same as being responsible for every problem.*
+
+He closed the notebook and went to class.
+
+At the classroom door, a first-year from Logistics stopped him.
+
+"Reed?"
+
+Arthur turned.
+
+The student held a copied field form.
+
+"Where do I file the waterfront report?"
+
+Arthur looked at the form.
+
+"You don't. The mission file is already closed."
+
+"I was told to ask you."
+
+"Who told you?"
+
+The student hesitated.
+
+"Someone in Combat."
+
+Arthur handed the form back.
+
+"Then ask them to send the request through the records desk."
+
+"You could just tell me."
+
+"I could. That would make the next person ask me too."
+
+The student frowned, but nodded and left.
+
+Arthur watched him go.
+
+The lesson was immediate.
+
+Leadership was not only knowing what to do.
+
+Sometimes it was deciding what not to become the shortcut for.
+
 ---
 
-*End of Chapter 022.*
+*End of Chapter 023.*
 

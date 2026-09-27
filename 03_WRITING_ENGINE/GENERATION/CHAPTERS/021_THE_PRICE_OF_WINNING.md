@@ -1,4 +1,4 @@
-﻿# THE PRICE OF WINNING
+# THE PRICE OF WINNING
 
 **Scene one â€” the patronizing.**
 
@@ -159,6 +159,72 @@ Arthur took the folder. The pages were thin and the cover was worn, but the mark
 He put the folder in his case and carried both back to the archive.
 
 Pram's request would be filed by morning. The next exercise would not be an accident. And somewhere above the low table in the records block, a copy of the exercise log was already in the second folder, the one with his name on it, the one that other people had begun to read.
+
+Arthur sat down with his tray and opened the exercise log again.
+
+Owen noticed first.
+
+"You are still working."
+
+"I am checking one thing."
+
+"The anchor?"
+
+"The cost."
+
+Owen stopped eating. Clarke looked over from the other side of the table.
+
+Arthur turned the page toward them.
+
+"The report says no injuries. That is correct. It does not say Pram's group held the channel for eleven minutes after the frame was ready. It does not say I chose the position because I needed their line to keep the Seep away from the pump."
+
+"You could add it," Clarke said.
+
+"I could."
+
+"Why don't you?"
+
+Arthur looked across the dining hall. Pram's table was still empty.
+
+"Because if I write that I used them, the next person reading the report may think the method is repeatable. It is not. Pram accepted the risk because he wanted the test. Someone else might not."
+
+Clarke considered that.
+
+"So the report needs the limitation."
+
+"Yes."
+
+Arthur added one final sentence beneath the official conclusion.
+
+*Boundary method effective only when the team understands and accepts the exposure.*
+
+He underlined **accepts** once.
+
+The word changed the exercise in a small way. It was no longer only about whether Arthur had been right. It was about whether being right gave him the right to spend someone else's position.
+
+He closed the notebook.
+
+Across the room, Pram finally entered. He saw Arthur, paused, and then came to the table.
+
+"You added something," Pram said.
+
+Arthur looked at the notebook.
+
+"A limitation."
+
+Pram read it.
+
+For a moment his expression lost the challenge that usually sat behind it.
+
+"Good," he said.
+
+Then he walked away.
+
+Arthur watched him go.
+
+The exercise had been a victory.
+
+The limitation was the part he wanted to remember.
 
 ---
 
