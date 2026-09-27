@@ -156,12 +156,6 @@ That was how the chain worked. He had learned it from the dormant docket, and th
 
 ---
 
-*End of Chapter 033.*
-
-
-
-
-
 **Scene five — the second observation.**
 
 Arthur returned to the warehouse alone after the team had gone.
