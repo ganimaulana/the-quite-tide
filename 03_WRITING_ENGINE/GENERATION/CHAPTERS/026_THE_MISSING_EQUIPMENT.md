@@ -128,6 +128,47 @@ He was asleep before the clock in the corridor struck ten. In the doctrine offic
 
 ---
 
-*End of Chapter 025.*
+**Scene five — the question behind the exercise.**
 
+Arthur found the exercise notice again before leaving the dining hall. One line had been underlined: **all members of the mixed team must submit an individual assessment.**
+
+"You see it too," Clarke said.
+
+Arthur looked up. "The exercise is not only about the team."
+
+"It says individual assessment."
+
+"The less obvious part is why they need it after the audit."
+
+Owen folded his notebook shut. "Maybe they want to know whether the result belongs to the group or to you."
+
+Arthur considered that. The Academy had spent the term testing whether the Irregulars were useful together. The audit had tested whether the artifact was real. The next exercise could test whether the methods survived when the people were separated.
+
+"If they split us," Arthur said, "the question changes."
+
+Clarke nodded. "From can the team solve it to can the Academy explain why the team works."
+
+Arthur disliked that question more than the first one.
+
+He looked across the table. Pram was not there. That bothered him more than it should have. Pram had become useful precisely because he challenged assumptions Arthur would otherwise leave untouched. If the Academy separated them, Arthur would lose a source of resistance as well as a teammate.
+
+Owen noticed the silence. "You are thinking about Pram."
+
+"Yes."
+
+"You could ask him."
+
+Arthur almost did. Then he stopped. The exercise notice had been posted publicly. Pram would see it. If Arthur went looking for him before the test, he would be reacting to the Academy's design before knowing the design.
+
+"No," he said. "Let the exercise tell us what it is first."
+
+Clarke smiled faintly. "That is the most Arthur answer you have given all week."
+
+Arthur folded the notice and put it in his folder.
+
+Tomorrow, the Academy would ask them to perform separately.
+
+He wanted to know what it expected them to fail at.
+
+*End of Chapter 025.*
 

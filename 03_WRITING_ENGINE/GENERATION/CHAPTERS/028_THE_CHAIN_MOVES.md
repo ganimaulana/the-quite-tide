@@ -134,5 +134,97 @@ He closed the notebook. In the morning, he would request the east storage block'
 
 ---
 
+**Scene five — the file that moved first.**
+
+The refusal from the east storage block arrived before breakfast.
+
+Arthur opened it at the records counter.
+
+**ACCESS DENIED — ARCHIVAL INTEGRITY REVIEW.**
+
+No signature.
+
+He read the line again.
+
+"That is unusual," the clerk said.
+
+Arthur looked up. "Why?"
+
+"A sealed file normally gives a retention authority. This only gives a process."
+
+"Who approved the process?"
+
+The clerk checked the screen.
+
+Nothing appeared.
+
+Arthur did not smile. He had expected a refusal. He had not expected an unsigned one.
+
+He copied the reference code into his notebook and asked for the process manual. The manual said an archival integrity review could be initiated by three offices: Records, Legal, or the original division that created the file.
+
+The east storage block no longer existed as a division.
+
+That left two.
+
+"Can I have the originating office?" Arthur asked.
+
+The clerk checked again.
+
+"Blank."
+
+Arthur looked at the refusal.
+
+A blank field was not proof of a conspiracy. He reminded himself of that before the thought could become comfortable.
+
+It was evidence of a missing step.
+
+That was enough.
+
+He filed the refusal under **OFFICIAL READING**, then added a second entry under **PROCESS**.
+
+When he closed the folder, Pram was standing behind him.
+
+"You got refused."
+
+"Yes."
+
+"You look pleased."
+
+"I have a process code."
+
+Pram stared at him. "Only you could be pleased about being denied access to a file."
+
+Arthur handed him the copy.
+
+Pram read it, then pointed at the blank originating office.
+
+"This is wrong."
+
+"Probably."
+
+"You said we do not assume."
+
+"I said I do not assume. You are allowed to."
+
+Pram gave the paper back.
+
+"Then I assume someone forgot to sign it."
+
+Arthur nodded.
+
+"Good. Now we have two hypotheses."
+
+Pram looked at him for a moment.
+
+"You are getting worse."
+
+"At what?"
+
+"Making simple things simple."
+
+Arthur put the refusal away.
+
+That was fair.
+
 *End of Chapter 027.*
 

@@ -138,6 +138,83 @@ He put the artifact back in its pouch and went to sleep. In the morning, the req
 
 ---
 
-*End of Chapter 029.*
+**Scene five — the answer to the question.**
 
+The Institute replied three days later.
+
+Arthur opened the envelope in the records block.
+
+The letter was shorter than the first one.
+
+That told him more than the contents did.
+
+They had answered his request for a weekly schedule. They wanted two afternoons per week, access to his operational reports, supervised observation during approved Seep missions, and a term-end assessment. The assessment would be shared with the Academy.
+
+They had not answered why they wanted him.
+
+Arthur read the last paragraph twice.
+
+The Institute would accept his deferral for one term.
+
+Only one.
+
+He took the letter to Hayes.
+
+"They agreed," Arthur said.
+
+Hayes read it. "To the deferral."
+
+"Yes."
+
+"And now they have given you exactly what you asked for."
+
+Arthur nodded. "Which means the useful part is not what they gave me."
+
+"What is it?"
+
+Arthur pointed at the shared assessment. "They want the Academy to see their result."
+
+Hayes leaned back. "That is normal for an attachment."
+
+"Then why did they not say it in the first letter?"
+
+Hayes did not answer immediately.
+
+"Because the first letter was an offer," Hayes said at last. "This one is a negotiation."
+
+Arthur looked at the two letters side by side.
+
+The first had tried to make acceptance feel immediate.
+
+The second had accepted his delay and supplied terms.
+
+That meant the delay had worked.
+
+It had not made the Institute lose interest. It had forced them to become specific.
+
+Arthur folded the second letter.
+
+"I will accept the attachment next term, subject to one condition."
+
+Hayes looked up. "Which is?"
+
+"I choose which records they receive. They can observe approved missions. They cannot take unrestricted access to my personal files."
+
+Hayes was quiet.
+
+Then he nodded. "Put it in writing."
+
+Arthur smiled faintly. "That was the plan."
+
+He returned to the records office and began drafting the amendment.
+
+The Institute had wanted an answer.
+
+Arthur had given them a contract to negotiate instead.
+
+For the first time, the offer no longer felt like something being done to him.
+
+It was becoming something he could shape.
+
+*End of Chapter 029.*
 

@@ -128,7 +128,91 @@ Then he slept, and in the morning the request went out, and the refusal came bac
 
 ---
 
+**Scene five — the cost of remaining unresolved.**
+
+The next afternoon, Arthur received a notice from the Academy registry.
+
+The diagnostic repeat had been entered into his student record.
+
+The notice contained three lines.
+
+**RANK: F.**
+
+**CLASSIFICATION: IRREGULAR.**
+
+**REVIEW STATUS: UNRESOLVED.**
+
+Arthur read it once and felt the old irritation return.
+
+Not anger. Not fear.
+
+Administrative irritation.
+
+The machine had failed to classify him, and the Academy had solved that failure by giving the failure a place to live.
+
+He took the notice to Hayes.
+
+"They have made the unresolved result permanent until the next annual cycle," Arthur said.
+
+Hayes read it. "That is what the rules allow."
+
+"I know."
+
+"Then why are you here?"
+
+Arthur tapped the third line. "Because this is the first time they have called it a review status instead of a provisional classification."
+
+Hayes looked at him for several seconds. "You think the wording matters."
+
+"Wording is how institutions move without admitting they moved."
+
+Hayes almost smiled. "You have been spending too much time in Records."
+
+"Probably."
+
+Hayes returned the paper. "Then use it correctly. Do not turn every change in wording into a conspiracy."
+
+Arthur nodded. "What should I turn it into?"
+
+"A question with a measurable answer."
+
+Arthur thought about the eleven subjects.
+
+"Then I want the previous ten cases."
+
+"You already requested the old files."
+
+"No. I requested the 1974 files. I want the ten ERROR/UNDEFINED cases. All years."
+
+Hayes's expression changed slightly. "That is a better request."
+
+"Why?"
+
+"Because now you are not asking where the first case went. You are asking whether the Academy has been handling the same problem repeatedly."
+
+Arthur took out his notebook.
+
+He wrote the request before he could talk himself out of it.
+
+Ten cases.
+
+Ten outcomes.
+
+One reclassification.
+
+Nine unresolved.
+
+If the numbers held, the pattern would be more useful than the mystery.
+
+If they did not, he would have learned that his first theory was wrong.
+
+Either result was useful.
+
+He signed the request and handed it to Hayes.
+
+This time, Hayes did not tell him to wait.
+
+He only said, "Good. Now we can find out what unresolved actually costs."
+
 *End of Chapter 028.*
-
-
 

@@ -152,6 +152,63 @@ Arthur closed the folder. The tea was warm. Outside, the rain had stopped. Somew
 
 ---
 
-*End of Chapter 026.*
+**Scene five — what the audit changed.**
 
+The next morning, Arthur found the auditor's report already copied into the division file. Someone had added a red reference number beside the sentence recommending continued observation.
+
+He stopped at the doorway.
+
+The report had not changed. The way the Academy had filed it had.
+
+He walked to the clerk's desk.
+
+"Who added the reference?"
+
+The clerk checked the ledger. "Combat section."
+
+"Why?"
+
+"No reason given."
+
+Arthur looked at the number again. It pointed to a general policy concerning irregular equipment and unclassified operational methods. The policy itself was harmless. The combination was not.
+
+The Academy had taken an audit that said *observe the student* and attached it to a policy that said *observe the equipment*.
+
+That distinction mattered. If the artifact was treated as equipment, the Academy could eventually move it, inventory it, or assign another custodian without needing to classify Arthur differently. The audit had not given them that authority. The cross-reference might be an attempt to create it indirectly.
+
+Arthur copied the reference number into his notebook.
+
+He did not confront the Combat section.
+
+Instead, he returned to the original report and checked the signature block. The auditor had signed the recommendation personally. The new reference had been added by someone else.
+
+That was enough.
+
+He filed a clarification request.
+
+Not a complaint. Not an accusation.
+
+One sentence: **Please identify the authority under which Audit 2 has been cross-referenced to equipment custody policy.**
+
+He handed it to the clerk.
+
+The clerk read it and looked at Arthur. "You expect an answer?"
+
+"I expect a document."
+
+The clerk stamped the request.
+
+Arthur took the copy and walked away.
+
+He had started the morning with an audit that said nothing had been found.
+
+By noon, the Academy had attached a new meaning to that same audit.
+
+That was the real result.
+
+Someone had decided the absence of a finding could still be used.
+
+Arthur now had to find out who.
+
+*End of Chapter 026.*
 
